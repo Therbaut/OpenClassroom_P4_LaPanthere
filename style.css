@@ -677,7 +677,22 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
+}
+
+.remplacement_texte {
+    font-size: 30px;
+    color: gray;
+}
+
+.remplacement_texte_citation {
+    font-size: 19px;
+    color: gray;
+}
+
+.remplacement_texte_portefolio {
+    font-size: 20px;
+    color: gray;
 }
 
 .tight-width-whitespace {
