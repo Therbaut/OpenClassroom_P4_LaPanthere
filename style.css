@@ -695,6 +695,10 @@ p {
     color: gray;
 }
 
+.text-shadow {
+    text-shadow: 2px 2px 2px #000000;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
